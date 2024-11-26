@@ -1,4 +1,4 @@
-Ca y est, c'est mardi, c'est bientot le week-end !
+Ça y est, c'est mardi, c'est bientôt le week-end !
 
 [Home page](https://github.com/EnderNight/EnderNight)
 
